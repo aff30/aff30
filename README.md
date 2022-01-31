@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ana Fonseca
 - 👀 I’m interested in livestock animal microbiome and performance production
 - 🌱 I’m currently learning microbiome analysis
-- 💞️ I’m looking to collaborate on microbiome analysis 
+- 💞️ I’m looking to collaborate on microbiome analysis witin my lab gandalab https://gandalab.org/
 - 📫 How to reach me afonseca@psu.edu
 
 <!---
